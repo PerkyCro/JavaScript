@@ -60,3 +60,5 @@ job = "teacher";
 lastName = "Perak";
 console.log(lastName);
 firstName = "Marin";
+location = "Vir";
+temperature = "32";
