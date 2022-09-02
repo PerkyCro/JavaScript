@@ -59,3 +59,4 @@ job = "teacher";
 
 lastName = "Perak";
 console.log(lastName);
+firstName = "Marin";
